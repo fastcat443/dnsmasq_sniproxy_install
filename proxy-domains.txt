@@ -182,14 +182,12 @@ hbomaxcdn.com
 hbonow.com
 maxgo.com
 
-
 #Dazn
 dazn-api.com
 dazn.com
 dazndn.com
 indazn.com
 indaznlab.com
-
 
 #ViuTV
 viu.tv
@@ -204,44 +202,6 @@ gstatic.com
 firebaseio.com
 jwplayer.com
 cloudfront.net
-
-#Abema
-abema.io
-abema.tv
-ds-linear-abematv.akamaized.net
-linear-abematv.akamaized.net
-ds-vod-abematv.akamaized.net
-vod-abematv.akamaized.net
-ameba.jp
-hayabusa.io
-mobile-collector.newrelic.com
-vod-abematv.akamaized.net
-bucketeer.jp
-abema.adx.promo
-hayabusa.media
-
-
-#DMM
-dmm.com
-dmm.co.jp
-dmm-extension.com
-dmmapis.com
-api-p.videomarket.jp
-
-
-
-
-
-
-#games
-cygames.jp
-konosubafd.jp
-colorfulpalette.org
-cds1.clubdam.com
-api.worldflipper.jp
-
-
-===============[ Japan ]===============
 
 #DMM
 dmm.com
